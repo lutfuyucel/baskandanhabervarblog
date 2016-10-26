@@ -1,5 +1,6 @@
 # blog
-A nice blog system with laravel 5 and laravelpanel 
+A nice blog system with laravel 5 and laravelpanel
+- başarılı../
 
 ## Demo 
 You can check the [live demo here](http://demo.serverfire.net/blog) and [live admin demo here](http://demo.serverfire.net/panel) .
